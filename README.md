@@ -1,4 +1,4 @@
-.zip extension folders are in the DOG_DNS_Onion_Guardian folder, and that is the name of the Extension.  
+.zip extension folders are how you would add extensions manually or upload to extension hosts for various browsers. The code lives inside these and you can edit them that way.  
 Use these to modify the extentions and check sauce, otherwise install them from the Extensions "store" in your appropriate browser
 
 # OnionGuard — .onion DNS Leak Prevention Extension
