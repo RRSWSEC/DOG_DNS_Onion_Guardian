@@ -134,3 +134,9 @@ zip -r dist/onionguard-chrome.zip . \
 ## License
 
 MIT — see LICENSE file.
+
+## Attribution: 
+
+ChatGPT Generated this read-me based on project files. Claude debugged errors and helped spread one extension across different browser extensions.
+
+Highly annotated and clear to read code. 
