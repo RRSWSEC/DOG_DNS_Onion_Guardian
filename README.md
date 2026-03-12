@@ -1,7 +1,7 @@
 .zip extension folders are how you would add extensions manually or upload to extension hosts for various browsers. The code lives inside these and you can edit them that way.  
 Use these to modify the extentions and check sauce, otherwise install them from the Extensions "store" in your appropriate browser
 
-# OnionGuard — .onion DNS Leak Prevention Extension
+# OnionGuard - .onion DNS Leak Prevention Extension
 
 **OPSEC-first browser extension for Firefox, Chrome, Chromium, and Opera.**
 
@@ -49,7 +49,6 @@ The block counter stores only a single integer (`totalBlocked`). No URL, hostnam
 2. Open Firefox → `about:debugging#/runtime/this-firefox`
 3. Click **Load Temporary Add-on**
 4. Select the `manifest.json` file in the extension folder
-5. For permanent install: submit to [addons.mozilla.org](https://addons.mozilla.org) or use `web-ext build`
 
 ### Chrome / Chromium / Brave / Edge
 
@@ -133,10 +132,12 @@ zip -r dist/onionguard-chrome.zip . \
 
 ## License
 
-MIT — see LICENSE file.
+MIT, see LICENSE file.
 
 ## Attribution: 
 
-ChatGPT Generated this read-me based on project files. Claude debugged errors and helped spread one extension across different browser extensions.
+**ChatGPT** *Generated this read-me* based on project files.* **Claude debugged errors and helped** *spread one extension across different browser extensions, adopting incredibly subtle differences between browsers.*
 
-Highly annotated and clear to read code. 
+**Spex:** *design, organization, coding (html/js) with a fiew caveats I missed outside of my debugger upon submitting to other extension "stores", implementatiuon, testing and submission* 
+
+~Highly annotated and clear to read code~
